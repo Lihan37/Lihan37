@@ -29,6 +29,26 @@
 
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Lihan37/langs)](https://githubtrends.io)
 
+## 🚀 My Projects
+
+### LifeShare Blood Donation Platform
+- **Description:** Connects blood donors and recipients, facilitating blood donations and managing funding for medical expenses.
+- **Features:**
+  - User Registration
+  - Blood Donation Requests
+  - Donation History
+  - Funding Section
+  - Responsive Design
+
+- **Technologies Used:**
+  - React.js
+  - MongoDB
+  - Tailwind CSS
+  - Daisy UI
+
+- **GitHub Repository:** [LifeShare Project](https://github.com/Lihan37/LifeShare-Client)
+- **Live Demo:** [LifeShare Demo](https://life-share-70cc5.web.app/)
+
 ## 💻 My Skills
 
 [![My Skills](https://skillicons.dev/icons?i=react,css,firebase,html,java,js,mysql,mongodb,nextjs,nodejs,tailwind,vscode)](https://skillicons.dev)
