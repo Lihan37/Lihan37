@@ -4,24 +4,20 @@
 
 ### Hello there! 👋
 
-#### 🚀 About Me
-- 🎓 Final year student at Daffodil International University.
-- 👨‍💻 Front-end Developer with a passion for crafting engaging user experiences and a basic understanding of backend development.
-- 🌐 Currently exploring the realms of Next.js and pushing the boundaries of web development.
-- 🔍 Actively seeking new job opportunities to apply my skills and contribute to innovative projects.
-- 💡 Let's build something amazing together! Open to collaborations and challenges in the tech world.
+🚀 About Me
+🎓 Final year student at Daffodil International University.
+👨‍💻 Front-end Developer with a knack for creating captivating user experiences and a growing interest in backend development.
+🌐 Exploring Next.js and pushing the boundaries of web development.
+🔍 Actively seeking new opportunities to apply my skills and contribute to innovative projects.
+💡 Open to collaborations and tech challenges.
 
-## 🌐 Profile Overview
-
-
-- 🔭 I’m currently working on Poll Management
-- 🌱 I’m currently learning Next.js, Node.js, exploring MongoDB
-- 👯 I’m eager to collaborate and explore the MERN stack.
-- 🤔 
- Seeking guidance to master the MERN stack. Any tips or resources appreciated!
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I spend a lot of time in front of my PC; in addition to coding, I have a passion for playing video games and a keen interest in esports.
-
+🌐 Profile Overview
+🔭 Working on Poll Management.
+🌱 Learning Next.js, Node.js, exploring MongoDB.
+👯 Eager to collaborate on MERN stack projects.
+🤔 Seeking guidance to master the MERN stack. Any tips or resources appreciated!
+😄 Pronouns: he/him
+⚡ Fun fact: Besides coding, I'm an avid gamer with a passion for esports.
 
 ## 📊 Contributions
 
