@@ -31,7 +31,7 @@
 
 ## 🚀 My Projects
 
-### LifeShare Blood Donation Platform
+### 🩸 LifeShare Blood Donation Platform
 - **Description:** Connects blood donors and recipients, facilitating blood donations and managing funding for medical expenses.
 - **Features:**
   - User Registration
@@ -50,7 +50,8 @@
   - [Client-side](https://github.com/Lihan37/LifeShare-Client)
   - [Server-side](https://github.com/Lihan37/LifeShare-Server)
 - **Live Demo:** [LifeShare Demo](https://life-share-70cc5.web.app/)
-### Inn-Sight Room Booking System
+
+### 🔑 Inn-Sight Room Booking System
 - **Description:** A platform for booking and managing room reservations, including features for cancellation, date selection, user creation, and a review system.
 - **Features:**
   - Room Booking
@@ -60,15 +61,15 @@
   - Review System
 - **Tech Stack:**
   - Frontend: React, Tailwind CSS
-  - Backend: Firebase , mongodb
+  - Backend: Firebase, MongoDB
 - **GitHub Repositories:**
   - [Client-side](https://github.com/Lihan37/innSight-client)
   - [Server-side](https://github.com/Lihan37/innsight-server)
 - **Live Demo:** [Inn-Sight Demo](https://inn-sight.web.app/)
 
-## 🚀 Automotive Store Project
+### 🚗 Automotive Store Project
 
-### Automotive Store
+### 🚗 Automotive Store
 - **Description:** An online store for automotive enthusiasts to explore, buy, and sell cars.
 - **Features:**
   - User Authentication (Login, Logout, Registration)
@@ -92,6 +93,7 @@
   - [Client-side](https://github.com/Lihan37/automotive-client)
   - [Server-side](https://github.com/Lihan37/automotive-server)
 - **Live Demo:** [Automotive Store Demo](https://automotive-store-7d9d6.web.app/)
+
 
 
 ## 💻 My Skills
