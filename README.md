@@ -28,9 +28,6 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Lihan37&theme=gotham)](https://git.io/streak-stats)
 
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Lihan37/langs)](https://githubtrends.io)
-img[src="https://api.githubtrends.io/user/svg/Lihan37/langs"] {
-  background-color: transparent !important;
-}
 
 
 ## 🚀 My Projects
