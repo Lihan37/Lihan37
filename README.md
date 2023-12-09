@@ -60,7 +60,7 @@
   - Review System
 - **Tech Stack:**
   - Frontend: React, Tailwind CSS
-  - Backend: Firebase (or your preferred backend technology)
+  - Backend: Firebase , mongodb
 - **GitHub Repositories:**
   - [Client-side](https://github.com/Lihan37/innSight-client)
   - [Server-side](https://github.com/Lihan37/innsight-server)
