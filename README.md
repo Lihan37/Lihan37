@@ -2,7 +2,7 @@
 
 
 
-### Hello there, This Is Eanur Rahman! 👋
+### Hello there! 👋
 
 #### 🚀 About Me
 - 🎓 Final year student at Daffodil International University.
