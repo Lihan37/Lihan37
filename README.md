@@ -19,11 +19,27 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Besides coding, I'm an avid gamer with a passion for esports.
 
+
 ## 📊 Contributions
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Lihan37&theme=gotham)](https://git.io/streak-stats)
 
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Lihan37/langs)](https://githubtrends.io)
+
+
+## 🌐 Reach Me Out
+
+Connect with me on social media:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/eanurlihan/)
+[![Facebook](https://img.shields.io/badge/Facebook-Like-blue)](https://www.facebook.com/eanur.rahman.9/)
+
+
+
+## 💻 My Skills
+
+[![My Skills](https://skillicons.dev/icons?i=react,css,firebase,html,java,js,mysql,mongodb,nextjs,nodejs,tailwind,vscode)](https://skillicons.dev)
+
 
 
 ## 🚀 My Projects
@@ -93,9 +109,6 @@
 
 
 
-## 💻 My Skills
-
-[![My Skills](https://skillicons.dev/icons?i=react,css,firebase,html,java,js,mysql,mongodb,nextjs,nodejs,tailwind,vscode)](https://skillicons.dev)
 
 
 
