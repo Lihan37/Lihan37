@@ -46,8 +46,25 @@
   - Tailwind CSS
   - Daisy UI
 
-- **GitHub Repository:** [LifeShare Project](https://github.com/Lihan37/LifeShare-Client)
+- **GitHub Repositories:**
+  - [Client-side](https://github.com/Lihan37/LifeShare-Client)
+  - [Server-side](https://github.com/Lihan37/LifeShare-Server)
 - **Live Demo:** [LifeShare Demo](https://life-share-70cc5.web.app/)
+### Inn-Sight Room Booking System
+- **Description:** A platform for booking and managing room reservations, including features for cancellation, date selection, user creation, and a review system.
+- **Features:**
+  - Room Booking
+  - Reservation Cancellation
+  - Date Selection
+  - User Registration
+  - Review System
+- **Tech Stack:**
+  - Frontend: React, Tailwind CSS
+  - Backend: Firebase (or your preferred backend technology)
+- **GitHub Repositories:**
+  - [Client-side](https://github.com/Lihan37/innSight-client)
+  - [Server-side](https://github.com/Lihan37/innsight-server)
+- **Live Demo:** [Inn-Sight Demo](https://inn-sight.web.app/)
 
 ## 💻 My Skills
 
