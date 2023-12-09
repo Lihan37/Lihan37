@@ -66,6 +66,34 @@
   - [Server-side](https://github.com/Lihan37/innsight-server)
 - **Live Demo:** [Inn-Sight Demo](https://inn-sight.web.app/)
 
+## 🚀 Automotive Store Project
+
+### Automotive Store
+- **Description:** An online store for automotive enthusiasts to explore, buy, and sell cars.
+- **Features:**
+  - User Authentication (Login, Logout, Registration)
+  - Browse Cars Catalog
+  - Search and Filter Cars
+  - Detailed Product Pages
+  - Add Cars to Shopping Cart
+  - Checkout Process
+  - User Profile Management
+  - Seller Dashboard (For adding and managing car listings)
+- **Frontend Technologies:**
+  - React (JavaScript library for building user interfaces)
+  - Tailwind CSS (Utility-first CSS framework)
+  - Daisy UI (Replace with the actual frontend library/framework you are using)
+  - JavaScript (For dynamic behavior on the client side)
+- **Backend Technologies:**
+  - Node.js (JavaScript runtime for server-side development)
+  - Express (Web application framework for Node.js)
+  - MongoDB (NoSQL database for data storage)
+- **GitHub Repositories:**
+  - [Client-side](https://github.com/Lihan37/automotive-client)
+  - [Server-side](https://github.com/Lihan37/automotive-server)
+- **Live Demo:** [Automotive Store Demo](https://automotive-store-7d9d6.web.app/)
+
+
 ## 💻 My Skills
 
 [![My Skills](https://skillicons.dev/icons?i=react,css,firebase,html,java,js,mysql,mongodb,nextjs,nodejs,tailwind,vscode)](https://skillicons.dev)
