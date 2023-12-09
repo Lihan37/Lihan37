@@ -64,7 +64,7 @@
   - [Server-side](https://github.com/Lihan37/innsight-server)
 - **Live Demo:** [Inn-Sight Demo](https://inn-sight.web.app/)
 
-### 🚗 Automotive Store Project
+
 
 ### 🚗 Automotive Store
 - **Description:** An online store for automotive enthusiasts to explore, buy, and sell cars.
