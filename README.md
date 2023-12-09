@@ -1,16 +1,32 @@
-### Hi there 👋
+[![Banner](/assets/Images/Simple%20Modern%20Professional%20Personal%20LinkedIn%20Banner%20(Facebook%20Cover).jpg "Shiprock, New Mexico by Beau Rogers")](https://raw.githubusercontent.com/Lihan37/Lihan37/main/Simple%20Modern%20Professional%20Personal%20LinkedIn%20Banner%20(Facebook%20Cover).jpg)
 
-<!--
-**Lihan37/Lihan37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello there, This Is Eanur Rahman! 👋
 
-Here are some ideas to get you started:
+#### 🚀 About Me
+- 🎓 Final year student at Daffodil International University.
+- 👨‍💻 Front-end Developer with a passion for crafting engaging user experiences and a basic understanding of backend development.
+- 🌐 Currently exploring the realms of Next.js and pushing the boundaries of web development.
+- 🔍 Actively seeking new job opportunities to apply my skills and contribute to innovative projects.
+- 💡 Let's build something amazing together! Open to collaborations and challenges in the tech world.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Profile Overview
+
+
+- 🔭 I’m currently working on Poll Management
+- 🌱 I’m currently learning Next.js, Node.js, exploring MongoDB
+- 👯 I’m eager to collaborate and explore the MERN stack.
+- 🤔 
+ Seeking guidance to master the MERN stack. Any tips or resources appreciated!
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I spend a lot of time in front of my PC; in addition to coding, I have a passion for playing video games and a keen interest in esports.
+
+
+## 📊 Contributions
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Lihan37&theme=gotham)](https://git.io/streak-stats)
+
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Lihan37/langs)](https://githubtrends.io)
+
+## 💻 My Skills
+
+[![My Skills](https://skillicons.dev/icons?i=react,css,firebase,html,java,js,mysql,mongodb,nextjs,nodejs,tailwind,vscode)](https://skillicons.dev)
