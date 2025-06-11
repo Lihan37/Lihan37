@@ -4,8 +4,7 @@
 
 ### Hello there! 👋
 
-**🚀 About Me**
-- 🎓 Final year student at Daffodil International University.
+**🚀 About Me**.
 - 👨‍💻 Front-end Developer with a knack for creating captivating user experiences and a growing interest in backend development.
 - 🌐 Exploring Next.js and pushing the boundaries of web development.
 - 🔍 Actively seeking new opportunities to apply my skills and contribute to innovative projects.
